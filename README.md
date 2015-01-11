@@ -16,3 +16,7 @@ The following users have been provisioned in the LDAP directory:
 |fili|infosec|
 |ori|infosec|
 |nori|infosec|
+
+If you are asked for a password the password is Vagrant.
+
+This vagrant file also attempts a bind to port 389 on the host system.  You may need to change this.
